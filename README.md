@@ -3,7 +3,7 @@
 Fazer um computador reconhecer padrões através de exemplos, invés de programá-lo com regras específicas. Esses padrões são encontrados em *datas* (dados).
 
 > Machine = Sua máquina ou computador
-
+>
 > Learning = Descoberta de padrões em dados
 
 **Machine Learning tem por objetivo:**
@@ -100,3 +100,7 @@ Treinando uma maquina pra aprender como jogar [(Tabuleiro, Go)](https://www.yout
 Treinando a maquina como aprender e joga [Mario](https://www.youtube.com/watch?v=qv6UVOQ0F44) por contra própria
 
 Veículos autônomos
+
+# Finalizando
+
+Este artigo é uma adaptação afim de torna mais claro o tópico discutido. Dedico toda elucidação de ideias para o artigo original. A seguir: **[A Beginner’s Guide to Machine Learning](https://towardsdatascience.com/a-beginners-guide-to-machine-learning-5d87d1b06111)**
