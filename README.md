@@ -22,6 +22,18 @@ Antes de começar, vamos ver de formal geral do que machine learning é capaz:
  - **Finanças:** Prever ações fraudulentas em cartões de crédito
  - **Biologia:** Encontrar padrões em mutações genéticas que podem indicar câncer
 
+# Sistema de Aprendizado Supervisionado
+Conhecidos com os dois pioneiros na área, Tom Mitchel e Michael l. Jordan, perceberam que dos mais recentes progressos em machine learning havia um mapeamento de uma série de entradas para uma série de saidas. Alguns exemplos:
+| ENTRADA (X)                        | SAIDA (Y)                  | APLICAÇÃO  |
+| :---------------------------------:|:--------------------------:|:-------------------------:|
+| Gravador de voz                    | Script                     | Reconhecimento de voz     |
+| Foto                               | Legenda                    | Marcador de imagem        |
+| Transações de lojas                | A transação é fraudulenta? | Detector de fradues       |
+| Receita e ingredientes             | Avaliação dos clientes     | Recomendar de refeições   |
+| Localização e velocidade de carros | Fluxo do trânsito          | Semáforo                  |
+| Rosto                              | Nomes                      | Reconhecimento facial     |
+
+
 # Como Machine Learning funciona?
 
 Basicamente, entenda que máquinas aprendem ao encontrar padrões em dados semelhantes. Pense em dados como informação que você descobre do mundo. Quanto mais dados são dados para máquina mais inteligente ela fica.
@@ -42,17 +54,6 @@ Existem três categorias principais dentro do machine learning:
 - **Aprendizado supervisionado**: A máquina aprende apartir de dados especificados, normalmente especificado por humanos.
 - **Aprendizado não supervisionado**: A máquina aprende apartir de dados não especificados. Onde não há resposta "certa" entregue para maquina aprender, mas a maquina precisa encontrar padrões apartir dos dados para nos fornecer a resposta.
 - **Aprendizado reforçado**: A máquina aprende através de um sistema de recompensas.
-
-# Sistema de Aprendizado Supervisionado
-
-| ENTRADA (X)       | SAIDA (Y)  | APLICAÇÃO  |
-| :-------------: |:-------------:| :-----:|
-| Gravador de voz      | Script                    | Reconhecimento de voz |
-| Foto                 | Legenda                   |    Sistema de tag     |
-| Transações de lojas | A transação é fraudulenta? | Detector de fradues   |
-| Receita e ingredientes | Avaliação dos clientes | Recomendador de refeições |
-| Localização e velocidade de carros | Fluxo do trânsito | Semáforo |
-| Rosto | Nomes | Reconhecimento facial |
 
 # Aprendizado supervisionado
 
