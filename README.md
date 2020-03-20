@@ -55,6 +55,8 @@ Existem três categorias principais dentro do machine learning:
 - **Aprendizado não supervisionado**: A máquina aprende apartir de dados não especificados. Onde não há resposta "certa" entregue para maquina aprender, mas a maquina precisa encontrar padrões apartir dos dados para nos fornecer a resposta.
 - **Aprendizado reforçado**: A máquina aprende através de um sistema de recompensas.
 
+![Alt Text](MachineLearning.png)
+
 # Aprendizado supervisionado
 
 É o tipo de aprendizado mais comum e estudado por conta da sua facilidade de treinar a máquina com dados especificados, do que de não especificados. Dependendo do seu objetivo, o aprendizado supervisionado pode ser usado para resolver dois tipos de problemas: regressão ou classificação.
