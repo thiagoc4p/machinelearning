@@ -3,6 +3,7 @@
 Fazer um computador reconhecer padrões através de exemplos, invés de programá-lo com regras específicas. Esses padrões são encontrados em *datas* (dados).
 
 > Machine = Sua máquina ou computador
+>
 > Learning = Descoberta de padrões em dados
 
 **Machine Learning tem por objetivo:**
