@@ -39,6 +39,8 @@ Conhecidos com os dois pioneiros na área, Tom Mitchel e Michael l. Jordan, perc
 
 Basicamente, entenda que máquinas aprendem ao encontrar padrões em dados semelhantes. Pense em dados como informação que você descobre do mundo. Quanto mais dados são dados para máquina mais inteligente ela fica.
 
+![Alt Text](https://media.giphy.com/media/LUIvcbR6yytz2/giphy.gif)
+
 Mas nem todos os dados são parecidos. Imagina que você é um pirata e sua missão de vida é encontrar o tesouro perdido em uma ilha. Para encontrar o tesouro você irá precisar de várias informações. Por exemplo, dados, essas informações podem leva-lo tanto para direção certa quanto a errada. Quanto melhor for as informações/dados, mais a incerteza será reduzida e vice versa. Então é importante estar ciente do tipo de dado que você vai fornecer para maquina aprender.
 
 > "Mais dados superam modelos melhores. Dados melhores superam mais dados." — Riley Newman
@@ -73,8 +75,6 @@ Se você procurar prever valores discretos, tais como, classificar algo em deter
 # Aprendizado não supervisionado
 
 Já que existem dados não especificados para máquinas aprenderem, o objetivo do aprendizado não supervisionado é detectar padrões em dados e agrupá-los. Aprendizado não supervisionado são máquinas tentando aprender por "conta própria", sem auxílio. Imagine alguém te lançando um monte de dados e dizendo "Nesse monte de informação ai, encontre alguns padrões e separa eles pra mim. Obrigado e se divirta."
-
-![Alt Text](https://media.giphy.com/media/LUIvcbR6yytz2/giphy.gif)
 
 Dependendo do que você queira agrupar juntamente, o aprendizado não supervisionado pode agrupar os dados juntos por: clustering ou associação
 
