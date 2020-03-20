@@ -45,7 +45,7 @@ Existem três categorias principais dentro do machine learning:
 
 # Sistema de Aprendizado Supervisionado
 
-| INPUT (X)       | OUTPUT (Y)  | APLICAÇÃO  |
+| ENTRADA (X)       | SAIDA (Y)  | APLICAÇÃO  |
 | :-------------: |:-------------:| :-----:|
 | Gravador de voz      | Script                    | Reconhecimento de voz |
 | Foto                 | Legenda                   |    Sistema de tag     |
