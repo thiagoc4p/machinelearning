@@ -44,7 +44,7 @@ Existem três categorias principais dentro do machine learning:
 - **Aprendizado reforçado**: A máquina aprende através de um sistema de recompensas.
 
 # Sistema de Aprendizado Supervisionado
-#
+
 | INPUT (X)       | OUTPUT (Y)  | APLICAÇÃO  |
 | :-------------: |:-------------:| :-----:|
 | Gravador de voz      | Script                    | Reconhecimento de voz |
