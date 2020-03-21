@@ -54,15 +54,15 @@ Máquinas aprendem pra valer quando usamos dados do passado para prever informa�
 
 Existem três categorias principais dentro do machine learning:
 
-- **Aprendizado supervisionado**: A máquina aprende apartir de dados especificados, normalmente especificado por humanos.
-- **Aprendizado não supervisionado**: A máquina aprende apartir de dados não especificados. Onde não há resposta "certa" entregue para maquina aprender, mas a maquina precisa encontrar padrões apartir dos dados para nos fornecer a resposta.
+- **Aprendizado supervisionado**: A máquina aprende apartir de dados rotulados, normalmente rotulado por humanos.
+- **Aprendizado não supervisionado**: A máquina aprende apartir de dados não rotulados. Onde não há resposta "certa" entregue para maquina aprender, mas a maquina precisa encontrar padrões apartir dos dados para nos fornecer a resposta.
 - **Aprendizado reforçado**: A máquina aprende através de um sistema de recompensas.
 
 ![Alt Text](MachineLearning.png)
 
 # Aprendizado supervisionado
 
-É o tipo de aprendizado mais comum e estudado por conta da sua facilidade de treinar a máquina com dados especificados, do que de não especificados. Dependendo do seu objetivo, o aprendizado supervisionado pode ser usado para resolver dois tipos de problemas: regressão ou classificação.
+É o tipo de aprendizado mais comum e estudado por conta da sua facilidade de treinar a máquina com dados rotulados, do que de não rotulados. Dependendo do seu objetivo, o aprendizado supervisionado pode ser usado para resolver dois tipos de problemas: regressão ou classificação.
 
 #### Regressão:
 
@@ -74,7 +74,7 @@ Se você procurar prever valores discretos, tais como, classificar algo em deter
 
 # Aprendizado não supervisionado
 
-Já que existem dados não especificados para máquinas aprenderem, o objetivo do aprendizado não supervisionado é detectar padrões em dados e agrupá-los. Aprendizado não supervisionado são máquinas tentando aprender por "conta própria", sem auxílio. Imagine alguém te lançando um monte de dados e dizendo "Nesse monte de informação ai, encontre alguns padrões e separa eles pra mim. Obrigado e se divirta."
+Já que existem dados não rotulados para máquinas aprenderem, o objetivo do aprendizado não supervisionado é detectar padrões em dados e agrupá-los. Aprendizado não supervisionado são máquinas tentando aprender por "conta própria", sem auxílio. Imagine alguém te lançando um monte de dados e dizendo "Nesse monte de informação ai, encontre alguns padrões e separa eles pra mim. Obrigado e se divirta."
 
 Dependendo do que você queira agrupar juntamente, o aprendizado não supervisionado pode agrupar os dados juntos por: clustering ou associação
 
