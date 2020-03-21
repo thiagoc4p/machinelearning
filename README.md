@@ -95,11 +95,11 @@ O Aprendizado de Máquina reforçado é um sunconjunto da Intelgencia Artificial
 
 #### Exemplos de Aprendizado de Máquina reforçado:
 
-Treinando uma maquina pra aprender como jogar [(Tabuleiro, Go)](https://www.youtube.com/watch?v=g-dKXOlsf98)
+- Treinando uma maquina pra aprender como jogar [(Tabuleiro, Go)](https://www.youtube.com/watch?v=g-dKXOlsf98)
 
-Treinando a maquina como aprender e joga [Mario](https://www.youtube.com/watch?v=qv6UVOQ0F44) por contra própria
+- Treinando a maquina como aprender e joga [Mario](https://www.youtube.com/watch?v=qv6UVOQ0F44) por contra própria
 
-Veículos autônomos
+- Veículos autônomos
 
 # Finalizando
 
