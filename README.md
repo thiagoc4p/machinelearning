@@ -24,7 +24,7 @@ Antes de começar, vamos ver de formal geral do que machine learning é capaz:
  - **Biologia:** Encontrar padrões em mutações genéticas que podem indicar câncer
 
 # Sistema de Aprendizado Supervisionado
-Conhecidos com os dois pioneiros na área, Tom Mitchel e Michael l. Jordan, perceberam que dos mais recentes progressos em machine learning havia um mapeamento de uma série de entradas para uma série de saidas. Alguns exemplos:
+Conhecidos como os dois pioneiros na área, Tom Mitchel e Michael l. Jordan, perceberam que dos mais recentes progressos em machine learning havia um mapeamento de uma série de entradas para uma série de saidas. Alguns exemplos:
 | ENTRADA (X)                        | SAIDA (Y)                  | APLICAÇÃO  |
 | :---------------------------------:|:--------------------------:|:-------------------------:|
 | Gravador de voz                    | Script                     | Reconhecimento de voz     |
