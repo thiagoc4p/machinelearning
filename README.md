@@ -32,7 +32,7 @@ Conhecidos com os dois pioneiros na área, Tom Mitchel e Michael l. Jordan, perc
 | Transações de lojas                | A transação é fraudulenta? | Detector de fradues       |
 | Receita e ingredientes             | Avaliação dos clientes     | Recomendar de refeições   |
 | Localização e velocidade de carros | Fluxo do trânsito          | Semáforo                  |
-| Rosto                              | Nomes                      | Reconhecimento facial     |
+| Rosto                              | Nome                       | Reconhecimento facial     |
 
 
 # Como Machine Learning funciona?
